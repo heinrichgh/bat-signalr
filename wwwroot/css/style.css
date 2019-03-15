@@ -1,0 +1,11 @@
+html {
+    background: url("../img/background.jpg") no-repeat center center fixed;
+    /*-moz-background-size: cover;*/
+    background-size: cover;
+}
+
+#batmanLight {
+    position: absolute;
+    left: 0;
+    top: 0;
+}

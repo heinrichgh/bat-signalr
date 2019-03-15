@@ -1,0 +1,1 @@
+let connectionString = "http://192.168.88.246:8080/batman-signal-hub";
